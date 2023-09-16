@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Before suite]]>
+    </line>
+    <line>
+      <![CDATA[main method]]>
+    </line>
+    <line>
+      <![CDATA[After suite]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-09-09T15:43:15 IST" name="Default suite" finished-at="2023-09-09T15:43:15 IST" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2023-09-09T15:43:15 IST" name="Default test" finished-at="2023-09-09T15:43:15 IST" duration-ms="37">
+      <class name="Unit_Testing_Tool.Chronologies">
+        <test-method is-config="true" signature="suiteFile1()[pri:0, instance:Unit_Testing_Tool.Chronologies@14cd1699]" started-at="2023-09-09T15:43:15 IST" name="suiteFile1" finished-at="2023-09-09T15:43:15 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Before suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- suiteFile1 -->
+        <test-method signature="main()[pri:0, instance:Unit_Testing_Tool.Chronologies@14cd1699]" started-at="2023-09-09T15:43:15 IST" name="main" finished-at="2023-09-09T15:43:15 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[main method]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method is-config="true" signature="suiteFile()[pri:0, instance:Unit_Testing_Tool.Chronologies@14cd1699]" started-at="2023-09-09T15:43:15 IST" name="suiteFile" finished-at="2023-09-09T15:43:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[After suite]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- suiteFile -->
+      </class> <!-- Unit_Testing_Tool.Chronologies -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
